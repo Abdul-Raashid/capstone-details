@@ -1,0 +1,58 @@
+           +-----------------------+
+           |   Organization Manager|
+           +-----------------------+
+           | - Login               |
+           | - View Multiple Orgs  |
+           | - Assign Learners     |
+           | - Manage Learners'    |
+           |   Training            |
+           | - Schedule Corporate  |
+           |   Trainings           |
+           | - Manage Org. Reports |
+           | - Monitor Learner     |
+           |   Progress            |
+           | - Access Org. Dashboards|
+           +-----------------------+
+                   |
+    +--------------+---------------+
+    |                              |
++-----------+                   +-----------+
+|   Admin   |                   | Coordinator|
++-----------+                   +-----------+
+| - Manage  |                   | - Manage  |
+|   Users   |                   |   Classrooms|
+| - Manage  |                   | - Assign  |
+|   Org.    |                   |   Trainers |
+| - Assign  |                   | - Manage  |
+|   Roles   |                   |   Corporate|
+| - View    |                   |   Training |
+|   Reports |                   | - Track   |
+| - Monitor |                   |   Learners|
+|   Activity|                   +-----------+
++-----------+
+                   |
+             +-----------+
+             |   Trainer |
+             +-----------+
+             | - Create  |
+             |   Courses|
+             | - Create  |
+             |   Tests  |
+             | - Grade   |
+             |   Assignments|
+             | - Record  |
+             |   Sessions|
+             +-----------+
+                   |
+             +-----------+
+             |   Learner |
+             +-----------+
+             | - Login   |
+             | - Enroll  |
+             | - Attend  |
+             |   Sessions|
+             | - Submit  |
+             |   Assignments|
+             | - View    |
+             |   Certifications|
+             +-----------+
